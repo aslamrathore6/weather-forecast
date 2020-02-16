@@ -13,11 +13,11 @@ A simple, opensource weather app for Android. It gathers data from <a href="http
 
 ## Built With
  <li><a href="http://square.github.io/retrofit/">Retrofit</a> - A type-safe HTTP client for Android and Java</li>
+  <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a> - This module adds the minimum classes to RxJava that make writing reactive components in Android applications</li>
  <li><a href="https://openweathermap.org">OpenWeatherMap</a> - Weather API used</li>
  <li><a href="https://github.com/google/gson">Gson</a> - A Java serialization/deserialization library to convert Java Objects into JSON and back</li>
  <li><a href="http://square.github.io/picasso/">Picasso</a> - A powerful image downloading and caching library for Android</li>
  
- <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a> - This module adds the minimum classes to RxJava that make writing reactive components in Android applications
 
 ## Developer: Aslam Rathore
 Email-id aslamrathore9@gmail.com
