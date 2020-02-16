@@ -6,5 +6,6 @@ A simple, opensource weather app for Android. It gathers data from <a href="http
 
 <li>Simple design <br>
 <li>Detailed 5 day forecast <br>
-<li>Works with any city in the world
-
+<li>Works with any city in the world  </li>
+  
+ ![](screenshot_one.jpg)
