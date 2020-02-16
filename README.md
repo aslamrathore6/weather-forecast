@@ -4,8 +4,8 @@ A simple, opensource weather app for Android. It gathers data from <a href="http
 
 ## Features
 
-<li>Simple design <br>
-<li>Detailed 5 day forecast <br>
-<li>Works with any city in the world  </li>
-  
- ![](screenshot_one.jpg)
+Simple design
+Detailed 5 day forecast
+Works with any city in the world
+
+
